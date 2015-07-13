@@ -15,6 +15,3 @@ You can get a little VPS for just $10/year at [Bandwagon Host](https://bandwagon
 
 If you don't care about sharing an IP address with more people, check out the awesome [LowEndSpirit](http://lowendspirit.com/) project too. They are providing IPv6 VPS with NATed IPv4 for only 3€/year.
 
-###Donations
-
-If you want to show your appreciation, you can donate via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VBAYDL34Z7J6L) or [Bitcoin](https://www.coinbase.com/Nyr). Thanks!
