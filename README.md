@@ -1,6 +1,6 @@
 ##openvpn-install
 
-I am using Nyr/openvpn-install to learn about using scripts in GitHub. If you looking for a script for Debian, Ubuntu or CentOS, which will setup your own VPN server in no more than a minute, go to Nyr/openvpn-install. Don't use anything here. 
+I am using Nyr/openvpn-install to learn about using scripts in GitHub. If you looking for a script for Debian, Ubuntu or CentOS, which will setup your own VPN server in a minute or so, go to Nyr/openvpn-install. Don't use anything here. 
 
 ###Installation
 
