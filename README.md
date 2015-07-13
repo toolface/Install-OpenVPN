@@ -10,4 +10,6 @@ Run the script and follow the assistant:
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
-###I use Private Tunnel as my VPN provider. Private Tunnel is a US based VPN company from OpenVPN Technologies, the developers of OpenVPN software. Their services are available for Windows, Mac and Linux with support for mobile devices.
+###Private Tunnel (from the developers of OpenVPN software). 
+
+I use Private Tunnel as my VPN provider, using OpenVPN software installed on Linux Mint 17.2.
